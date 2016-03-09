@@ -1,4 +1,5 @@
 ## Master
+- **proxy pattern** http://layznet.iteye.com/blog/1182924
 - **github** http://www.zhihu.com/question/20070065
 - **spring source** http://my.oschina.net/gongzili/blog/304101
 - **web** http://www.codeceo.com/article/web-artche-changes.html?ref=myread
